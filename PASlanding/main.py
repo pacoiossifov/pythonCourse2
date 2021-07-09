@@ -1,0 +1,2 @@
+# This is where we will impelment the PAS LANDING game!!! :)
+print(" dad plz stop teaching me this. It is soooooooo boring and i woudl rather be doing other things. It is not fun at all to sit and watch you figure out how to install git and other stuff like that.")
